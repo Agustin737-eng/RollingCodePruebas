@@ -1,0 +1,11 @@
+Extensiones utilies.
+1- Live server
+2- Live Share 
+3- Prettier
+4- Html snippets
+
+
+Clase siguiente: 
+            inventigar que etiquetas hay en cada campo
+            inventigar html de paginas
+            investigar de posicionamiento
